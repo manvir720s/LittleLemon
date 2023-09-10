@@ -1,6 +1,6 @@
-# Little Lemon Full Stack Certification Project
+# Online Reservations FullStack Certification Project
 
-Little Lemon is a Full Stack Certification project developed as part of the Meta certification program. This project builds upon the Django framework and extends its functionality to include a MySQL database, an API for managing booking times, and a user-friendly interface for displaying available booking times.
+In this project I developed an online reservation system for a fictional restaurant called Little Lemon as part of the Meta certification program. This project builds upon the Django framework and extends its functionality to include a MySQL database, an API for managing booking times, and a user-friendly interface for displaying available booking times.
 
 ## Features
 The Features I added to this project are listed below:
